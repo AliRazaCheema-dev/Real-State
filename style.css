@@ -830,7 +830,9 @@ body {
     padding: 0px 0px 0px 40px;
     margin-right: 10px;
 }
-
+.agent-details{
+    padding-right: 0px;
+}
 .agent-details h6 {
     line-height: 1.4;
     font-family: "DM Sans", sans-serif;
