@@ -850,6 +850,7 @@ body {
 }
 .agent-meet{
     padding: 0px;
+    width:30%; 
 }
 .agent-meet a{
     font-weight: 700;
